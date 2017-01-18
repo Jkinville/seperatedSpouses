@@ -1,7 +1,7 @@
 # seperatedSpouses
 [Reddit r/dailyprogrammer Intermediate Challenge](https://www.reddit.com/r/dailyprogrammer/comments/5ijb4z/20161215_challenge_295_intermediate_seperated/)
 
-This a simple program that solves the following challenge using combination theorem and inclusion-exclusion theory. 
+Novice answer. This a simple program that solves the following challenge using combination theorem and inclusion-exclusion theory. 
 
 ## Challenge description
 
